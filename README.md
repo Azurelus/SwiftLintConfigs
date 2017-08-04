@@ -1,6 +1,8 @@
-# SwiftLintConfigs
+### SwiftLintConfigs
 
-#My .swiftlint.yml file
+# My .swiftlint.yml file
+
+```
 excluded:
     - Pods
     - Scripts
@@ -39,3 +41,4 @@ file_length:
     error: 1000
 
 warning_threshold: 15
+
