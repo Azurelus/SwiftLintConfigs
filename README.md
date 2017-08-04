@@ -25,7 +25,6 @@ opt_in_rules:
     - redundant_nil_coalescing
     - operator_usage_whitespace
     - closure_end_indentation
-    - object_literal
     - prohibited_super_call
     - fatal_error_message
     - force_unwrapping
