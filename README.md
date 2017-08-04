@@ -1,6 +1,6 @@
 ### SwiftLintConfigs
 
-# My .swiftlint.yml file
+My configs of .swiftlint.yml file
 
 ```
 excluded:
