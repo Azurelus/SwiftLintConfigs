@@ -13,6 +13,7 @@ disabled_rules:
     - todo
     - notification_center_detachment
     - line_length
+    - type_name
 
 opt_in_rules:
     - private_outlet
@@ -35,9 +36,17 @@ comma: error
 opening_brace: error
 closing_brace: error
 
+cyclomatic_complexity:
+    ignores_case_statements: true
+
+variable_name:
+  excluded:
+    - id
+
 file_length:
     warning: 800
     error: 1000
 
 warning_threshold: 15
+```
 
