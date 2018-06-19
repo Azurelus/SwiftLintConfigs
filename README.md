@@ -50,8 +50,8 @@ variable_name:
     warning: 1
 
 file_length:
-    warning: 800
-    error: 1000
+    warning: 700
+    error: 900
 
 warning_threshold: 15
 ```
