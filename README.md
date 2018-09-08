@@ -3,7 +3,8 @@ Configs for https://github.com/realm/SwiftLint
 ## How to use
 1) Install SwiftLint
 2) Download and copy file "swiftlint.yml" to root directory of your project 
-3) Rename file to ".swiftlint.yml"
+3) Rename file to ".swiftlint.yml" using terminal:
+`mv swiftlint.yml .swiftlint.yml`
 
 ## Configs
 My configs of ".swiftlint.yml" file
